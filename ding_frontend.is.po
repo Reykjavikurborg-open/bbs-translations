@@ -1,0 +1,446 @@
+# $Id$
+#
+# Icelandic translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Generated from files:
+#  ding_frontend.admin.inc: n/a
+#  ding_frontend.features.menu_custom.inc: n/a
+#  ding_frontend.features.menu_links.inc: n/a
+#  ding_frontend.views_default.inc: n/a
+#  ding_frontend.module: n/a
+#  ding_frontend.info: n/a
+#  plugins/content_types/taxonomy_menu.inc: n/a
+#  includes/callback_bundle_filter.inc: n/a
+#  includes/callback_user_role_filter.inc: n/a
+#  plugins/layouts/frontpage/ding_layout_1/ding_layout_1.inc: n/a
+#  plugins/layouts/single_row/25_50_25/25_50_25.inc: n/a
+#  plugins/layouts/site_template/ding2_site_template.inc: n/a
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2017-12-08 17:42+0100\n"
+"PO-Revision-Date: 2017-12-08 16:43+0000\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Icelandic <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"Language: is\n"
+"X-Generator: Poedit 2.0.5\n"
+
+#: ding_frontend.admin.inc:13
+msgid "News"
+msgstr ""
+
+#: ding_frontend.admin.inc:14
+msgid "Event"
+msgstr "Viðburður"
+
+#: ding_frontend.admin.inc:28
+msgid "Promote types to Frontpage"
+msgstr ""
+
+#: ding_frontend.admin.inc:32
+msgid "Please specify types which can be promoted to Frontpage."
+msgstr ""
+
+#: ding_frontend.admin.inc:37
+msgid "Save configuration"
+msgstr "Vista stillingar"
+
+#: ding_frontend.features.menu_custom.inc:21
+msgid "This menu is used to display tabs that let the user change between navigational elements."
+msgstr ""
+
+#: ding_frontend.features.menu_custom.inc:22
+msgid "Topbar menu"
+msgstr ""
+
+#: ding_frontend.features.menu_links.inc:135
+msgid "Login"
+msgstr ""
+
+#: ding_frontend.features.menu_links.inc:136
+msgid "Logout"
+msgstr "Útskrá"
+
+#: ding_frontend.features.menu_links.inc:137
+msgid "Menu"
+msgstr "Valmynd"
+
+#: ding_frontend.features.menu_links.inc:138
+msgid "Opening hours"
+msgstr "Afgreiðslutími"
+
+#: ding_frontend.features.menu_links.inc:139
+msgid "Search"
+msgstr "Leit"
+
+#: ding_frontend.features.menu_links.inc:140
+msgid "User menu (mobile)"
+msgstr ""
+
+#: ding_frontend.views_default.inc:80;173;323
+msgid "Master"
+msgstr ""
+
+#: ding_frontend.views_default.inc:81;191;324
+msgid "more"
+msgstr "meira"
+
+#: ding_frontend.views_default.inc:82;176;325
+msgid "Apply"
+msgstr "Virkja"
+
+#: ding_frontend.views_default.inc:83;177;326
+msgid "Reset"
+msgstr "Endursetja"
+
+#: ding_frontend.views_default.inc:84;178;327
+msgid "Sort by"
+msgstr "Raða eftir"
+
+#: ding_frontend.views_default.inc:85;179;328
+msgid "Asc"
+msgstr ""
+
+#: ding_frontend.views_default.inc:86;180;329
+msgid "Desc"
+msgstr ""
+
+#: ding_frontend.views_default.inc:87;182;330
+msgid "Items per page"
+msgstr ""
+
+#: ding_frontend.views_default.inc:88;183;331
+msgid "- All -"
+msgstr ""
+
+#: ding_frontend.views_default.inc:89;184;332
+msgid "Offset"
+msgstr ""
+
+#: ding_frontend.views_default.inc:90;185;333
+msgid "« first"
+msgstr "« fremsta"
+
+#: ding_frontend.views_default.inc:91;186;334
+msgid "‹ previous"
+msgstr "‹ fyrri"
+
+#: ding_frontend.views_default.inc:92;187;335
+msgid "next ›"
+msgstr "næsta ›"
+
+#: ding_frontend.views_default.inc:93;188;336
+msgid "last »"
+msgstr "aftasta »"
+
+#: ding_frontend.views_default.inc:94;189;337
+msgid "All"
+msgstr ""
+
+#: ding_frontend.views_default.inc:95;190
+msgid "Content pane"
+msgstr ""
+
+#: ding_frontend.views_default.inc:96;192;339
+msgid "View panes"
+msgstr ""
+
+#: ding_frontend.views_default.inc:174
+msgid "Ding node search"
+msgstr ""
+
+#: ding_frontend.views_default.inc:175
+msgid "mere"
+msgstr ""
+
+#: ding_frontend.views_default.inc:181
+msgid "No results found"
+msgstr ""
+
+#: ding_frontend.views_default.inc:338
+msgid "News & Events"
+msgstr ""
+
+#: ding_frontend.module:15
+msgid "Administer promoting to frontpage"
+msgstr ""
+
+#: ding_frontend.module:26
+msgid "Exclude unpublished users and content"
+msgstr ""
+
+#: ding_frontend.module:27
+msgid "Exclude unpublished user or content from the index. <strong>Caution:</strong> This only affects the indexed nodes themselves. If an enabled node has references to disabled nodes, those will still be indexed (or displayed) normally."
+msgstr ""
+
+#: ding_frontend.module:33
+msgid "Role filter"
+msgstr ""
+
+#: ding_frontend.module:34
+msgid "Exclude users from indexing based on their role."
+msgstr ""
+
+#: ding_frontend.module:40
+msgid "Bundle filter (not users)"
+msgstr ""
+
+#: ding_frontend.module:41
+msgid "Exclude items from indexing based on their bundle (content type, vocabulary, …)."
+msgstr ""
+
+#: ding_frontend.module:114
+msgid "Calendar header"
+msgstr ""
+
+#: ding_frontend.module:56
+msgid "Promote content types to frontpage"
+msgstr ""
+
+#: ding_frontend.module:57
+msgid "Administer promotion of content types to the frontpage."
+msgstr ""
+
+#: ding_frontend.info:0
+msgid "Ding frontend"
+msgstr ""
+
+#: ding_frontend.info:0
+msgid "Global frontend module."
+msgstr ""
+
+#: ding_frontend.info:0 plugins/content_types/taxonomy_menu.inc:17
+msgid "Ding!"
+msgstr ""
+
+#: includes/callback_bundle_filter.inc:78
+msgid "The following entity types do not contain any bundles: @types. All items of those types will therefore be included in the index."
+msgstr ""
+
+#: includes/callback_bundle_filter.inc:88
+msgid "<strong>Note:</strong> This index is already restricted to certain bundles. If you use this data alteration, those will be reduced further. However, the index setting is better supported in the user interface and should therefore be prefered. For example, using this data alteration will not reduce the displayed total number of items to index (even though some of them will not be indexed). Consider creating a new index with appropriate bundle settings instead."
+msgstr ""
+
+#: includes/callback_bundle_filter.inc:94
+msgid "Which items should be indexed?"
+msgstr ""
+
+#: includes/callback_bundle_filter.inc:97
+msgid "All but those from one of the selected bundles"
+msgstr ""
+
+#: includes/callback_bundle_filter.inc:98
+msgid "Only those from the selected bundles"
+msgstr ""
+
+#: includes/callback_bundle_filter.inc:103
+msgid "Bundles"
+msgstr ""
+
+#: includes/callback_bundle_filter.inc:113
+msgid "Items indexed by this index don't have bundles and therefore cannot be filtered here."
+msgstr ""
+
+#: includes/callback_user_role_filter.inc:50;59
+msgid "Which users should be indexed?"
+msgstr ""
+
+#: includes/callback_user_role_filter.inc:53
+msgid "All but those from one of the selected roles"
+msgstr ""
+
+#: includes/callback_user_role_filter.inc:54
+msgid "Only those from the selected roles"
+msgstr ""
+
+#: includes/callback_user_role_filter.inc:62
+msgid "Should match roles (user only has selected roles)"
+msgstr ""
+
+#: includes/callback_user_role_filter.inc:63
+msgid "Should have roles (may have other roles as well)"
+msgstr ""
+
+#: includes/callback_user_role_filter.inc:68
+msgid "Roles"
+msgstr "Hlutverk"
+
+#: plugins/content_types/taxonomy_menu.inc:12
+msgid "Ding taxonomy menu"
+msgstr ""
+
+#: plugins/content_types/taxonomy_menu.inc:13
+msgid "Generates links based on a taxonomy."
+msgstr ""
+
+#: plugins/content_types/taxonomy_menu.inc:19
+msgid "Taxonomy term id"
+msgstr ""
+
+#: plugins/content_types/taxonomy_menu.inc:20
+msgid "Group"
+msgstr ""
+
+#: plugins/content_types/taxonomy_menu.inc:24
+msgid "All terms"
+msgstr ""
+
+#: plugins/content_types/taxonomy_menu.inc:156
+msgid "Show"
+msgstr "Sýna"
+
+#: plugins/content_types/taxonomy_menu.inc:175
+msgid "Slug"
+msgstr ""
+
+#: plugins/content_types/taxonomy_menu.inc:176
+msgid "The slug could be \"arrangementer\" or \"nyheder\" and will be inserted based on the context."
+msgstr ""
+
+#: plugins/content_types/taxonomy_menu.inc:183
+msgid "Base URL"
+msgstr ""
+
+#: plugins/content_types/taxonomy_menu.inc:184
+msgid "Base URL used to create context in OG e.g. bibliotek, temaer."
+msgstr ""
+
+#: plugins/content_types/taxonomy_menu.inc:191
+msgid "Default link text"
+msgstr ""
+
+#: plugins/content_types/taxonomy_menu.inc:192
+msgid "Text string to used as link text. If not given default link will be omited."
+msgstr ""
+
+#: plugins/content_types/taxonomy_menu.inc:199
+msgid "Display as dropdown menu"
+msgstr ""
+
+#: plugins/content_types/taxonomy_menu.inc:200
+msgid "Change the taxonomy into a dropdown select box."
+msgstr ""
+
+#: plugins/content_types/taxonomy_menu.inc:212
+msgid "Vocabulary"
+msgstr "Orðaforði"
+
+#: plugins/content_types/taxonomy_menu.inc:213
+msgid "Select the vocabulary to use."
+msgstr ""
+
+#: plugins/content_types/taxonomy_menu.inc:234
+msgid "\"@context\" menu"
+msgstr ""
+
+#: plugins/layouts/frontpage/ding_layout_1/ding_layout_1.inc:3
+msgid "Ding frontpage layout 1"
+msgstr ""
+
+#: plugins/layouts/frontpage/ding_layout_1/ding_layout_1.inc:9
+msgid "Primary content"
+msgstr ""
+
+#: plugins/layouts/frontpage/ding_layout_1/ding_layout_1.inc:10
+msgid "Secondary content"
+msgstr ""
+
+#: plugins/layouts/frontpage/ding_layout_1/ding_layout_1.inc:11
+msgid "Tertiary content"
+msgstr ""
+
+#: plugins/layouts/frontpage/ding_layout_1/ding_layout_1.inc:12
+#: plugins/layouts/single_row/25_50_25/25_50_25.inc:12
+msgid "Attachment 1 of 4"
+msgstr ""
+
+#: plugins/layouts/frontpage/ding_layout_1/ding_layout_1.inc:13
+#: plugins/layouts/single_row/25_50_25/25_50_25.inc:13
+msgid "Attachment 2 of 4"
+msgstr ""
+
+#: plugins/layouts/frontpage/ding_layout_1/ding_layout_1.inc:14
+#: plugins/layouts/single_row/25_50_25/25_50_25.inc:14
+msgid "Attachment 3 of 4"
+msgstr ""
+
+#: plugins/layouts/frontpage/ding_layout_1/ding_layout_1.inc:15
+#: plugins/layouts/single_row/25_50_25/25_50_25.inc:15
+msgid "Attachment 4 of 4"
+msgstr ""
+
+#: plugins/layouts/frontpage/ding_layout_1/ding_layout_1.inc:16
+#: plugins/layouts/single_row/25_50_25/25_50_25.inc:16
+msgid "Attachment 1 of 3"
+msgstr ""
+
+#: plugins/layouts/frontpage/ding_layout_1/ding_layout_1.inc:17
+#: plugins/layouts/single_row/25_50_25/25_50_25.inc:17
+msgid "Attachment 2 of 3"
+msgstr ""
+
+#: plugins/layouts/frontpage/ding_layout_1/ding_layout_1.inc:18
+#: plugins/layouts/single_row/25_50_25/25_50_25.inc:18
+msgid "Attachment 3 of 3"
+msgstr ""
+
+#: plugins/layouts/frontpage/ding_layout_1/ding_layout_1.inc:19
+#: plugins/layouts/single_row/25_50_25/25_50_25.inc:19
+msgid "Attachment 1 of 2"
+msgstr ""
+
+#: plugins/layouts/frontpage/ding_layout_1/ding_layout_1.inc:20
+#: plugins/layouts/single_row/25_50_25/25_50_25.inc:20
+msgid "Attachment 2 of 2"
+msgstr ""
+
+#: plugins/layouts/frontpage/ding_layout_1/ding_layout_1.inc:21
+#: plugins/layouts/single_row/25_50_25/25_50_25.inc:21
+msgid "Attachment 1 of 1"
+msgstr ""
+
+#: plugins/layouts/single_row/25_50_25/25_50_25.inc:3
+msgid "Two sidebars, content in middle"
+msgstr ""
+
+#: plugins/layouts/single_row/25_50_25/25_50_25.inc:9
+msgid "Left sidebar"
+msgstr ""
+
+#: plugins/layouts/single_row/25_50_25/25_50_25.inc:10
+#: plugins/layouts/site_template/ding2_site_template.inc:11
+msgid "Main content"
+msgstr ""
+
+#: plugins/layouts/single_row/25_50_25/25_50_25.inc:11
+msgid "Right sidebar"
+msgstr ""
+
+#: plugins/layouts/site_template/ding2_site_template.inc:3
+msgid "Ding2 Site template"
+msgstr ""
+
+#: plugins/layouts/site_template/ding2_site_template.inc:8
+msgid "Branding"
+msgstr ""
+
+#: plugins/layouts/site_template/ding2_site_template.inc:9
+msgid "Header"
+msgstr "Haus"
+
+#: plugins/layouts/site_template/ding2_site_template.inc:10
+msgid "Navigation"
+msgstr ""
+
+#: plugins/layouts/site_template/ding2_site_template.inc:12
+msgid "Footer"
+msgstr "Fótur"
+
+#: plugins/layouts/site_template/ding2_site_template.inc:13
+msgid "Bottom"
+msgstr ""

@@ -1,0 +1,125 @@
+# $Id$
+#
+# Danish translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Generated from files:
+#  ding_tabroll.features.field_instance.inc: n/a
+#  ding_tabroll.views_default.inc: n/a
+#  ding_tabroll.features.inc: n/a
+#  ding_tabroll.info: n/a
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2017-12-08 17:34+0100\n"
+"PO-Revision-Date: 2017-12-08 16:34+0000\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Danish <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"Language: da\n"
+"X-Generator: Poedit 2.0.5\n"
+
+#: ding_tabroll.features.field_instance.inc:305
+msgid "If you rather want an external link or a link to a menu, use this field. It will only be used if the previous link is empty."
+msgstr ""
+"Brug dette felt, hvis du hellere vil anvende et eksternt link eller et link til en menu. Det anvendes kun, hvis det foregående "
+"felt til links er tomt."
+
+#: ding_tabroll.features.field_instance.inc:306
+msgid "Image"
+msgstr "Billede"
+
+#: ding_tabroll.features.field_instance.inc:307
+msgid "Lead"
+msgstr "Indledning"
+
+#: ding_tabroll.features.field_instance.inc:308
+msgid "Link"
+msgstr "Link"
+
+#: ding_tabroll.features.field_instance.inc:309
+msgid "Link to content that the tab should go to when clicked."
+msgstr "Link til indhold som fanebladet henviser til."
+
+#: ding_tabroll.features.field_instance.inc:310 ding_tabroll.views_default.inc:204
+msgid "Menu or external"
+msgstr ""
+
+#: ding_tabroll.features.field_instance.inc:311
+msgid "Short description displayed inside the tab in a overlay."
+msgstr "Kort beskrivelse der bliver vist i fanebladet i et pop-up vindue."
+
+#: ding_tabroll.features.inc:174
+msgid "Rolltab"
+msgstr ""
+
+#: ding_tabroll.features.inc:176
+msgid "Rolltabs are shown in a Tabroll, where each rolltab slide into the next in a carousel."
+msgstr ""
+
+#: ding_tabroll.features.inc:178
+msgid "Title"
+msgstr "Titel"
+
+#: ding_tabroll.views_default.inc:195
+msgid "Master"
+msgstr "Master"
+
+#: ding_tabroll.views_default.inc:196
+msgid "See more"
+msgstr ""
+
+#: ding_tabroll.views_default.inc:197
+msgid "Apply"
+msgstr "Udfør"
+
+#: ding_tabroll.views_default.inc:198
+msgid "Revert"
+msgstr "Gendan"
+
+#: ding_tabroll.views_default.inc:199
+msgid "Sort by"
+msgstr "Sortér efter"
+
+#: ding_tabroll.views_default.inc:200
+msgid "Asc"
+msgstr "Stigende"
+
+#: ding_tabroll.views_default.inc:201
+msgid "Desc"
+msgstr "Faldende"
+
+#: ding_tabroll.views_default.inc:202
+msgid "frontpage tabroll"
+msgstr ""
+
+#: ding_tabroll.views_default.inc:203
+msgid "Content entity referenced from field_ding_tabroll_link"
+msgstr ""
+
+#: ding_tabroll.views_default.inc:205
+msgid "Ding frontpage tabroll"
+msgstr ""
+
+#: ding_tabroll.views_default.inc:206
+msgid "more"
+msgstr "mere"
+
+#: ding_tabroll.views_default.inc:207
+msgid "Ding frontpage tablroll"
+msgstr ""
+
+#: ding_tabroll.views_default.inc:208 ding_tabroll.info:0
+msgid "Ding!"
+msgstr "Ding!"
+
+#: ding_tabroll.info:0
+msgid "Ding tabroll"
+msgstr ""
+
+#: ding_tabroll.info:0
+msgid "provides the content type ding_rolltab and the view ding_tabroll, presenting 5 tabs in a carousel - fx. for frontpage"
+msgstr ""

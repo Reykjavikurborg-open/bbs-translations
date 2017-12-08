@@ -1,0 +1,120 @@
+# $Id$
+#
+# Danish translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Generated from files:
+#  ting_new_materials.features.field_instance.inc: n/a
+#  ting_new_materials.features.inc: n/a
+#  plugins/content_types/new_materials.inc: n/a
+#  ting_new_materials.module: n/a
+#  ting_new_materials.info: n/a
+#  templates/covers-search-result.tpl.php: n/a
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2017-12-08 17:05+0100\n"
+"PO-Revision-Date: 2017-12-08 16:06+0000\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Danish <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"Language: da\n"
+"X-Generator: Poedit 2.0.5\n"
+
+#: ting_new_materials.features.field_instance.inc:246
+msgid "If sat the module only shows the covers of new materials. Materials without coverimage are filtered out."
+msgstr ""
+
+#: ting_new_materials.features.field_instance.inc:247
+msgid "Limit period"
+msgstr ""
+
+#: ting_new_materials.features.field_instance.inc:248
+msgid "Limits in days how old the new materials may be. E.g. a value of 90 limits to last 90 days"
+msgstr ""
+
+#: ting_new_materials.features.field_instance.inc:249
+msgid "Number of items"
+msgstr ""
+
+#: ting_new_materials.features.field_instance.inc:250
+msgid "Search query"
+msgstr ""
+
+#: ting_new_materials.features.field_instance.inc:251
+msgid "Search query used to get new materials. In order to get rid of non relevant posts use following syntax: query AND NOT (id OR id) where faustnumber is the id of the posts to exclude. E.g. \"krimi bog engelsk AND NOT  (25863690 OR 29258341)\""
+msgstr ""
+
+#: ting_new_materials.features.field_instance.inc:252
+msgid "Show Covers"
+msgstr ""
+
+#: ting_new_materials.features.field_instance.inc:253
+msgid "The number of items to display on each page, if the number of results are grater than this a pager will be used. "
+msgstr ""
+
+#: ting_new_materials.features.inc:57
+#: plugins/content_types/new_materials.inc:15
+msgid "New Materials"
+msgstr ""
+
+#: ting_new_materials.features.inc:59
+msgid "Creates a list of new materials"
+msgstr ""
+
+#: ting_new_materials.features.inc:61
+msgid "Title"
+msgstr "Titel"
+
+#: ting_new_materials.module:62
+msgid "The query did not yield any results."
+msgstr ""
+
+#: ting_new_materials.module:68
+msgid "The query did not yield any results with in the limit given."
+msgstr ""
+
+#: ting_new_materials.module:173
+msgid "ting_new_materials"
+msgstr ""
+
+#: ting_new_materials.module:173
+msgid "Failed to get objects from the Data well: “@message”"
+msgstr ""
+
+#: ting_new_materials.info:0
+msgid "Ting New Materials"
+msgstr ""
+
+#: ting_new_materials.info:0
+msgid "New materials lists for Ting."
+msgstr ""
+
+#: ting_new_materials.info:0
+msgid "Ding!"
+msgstr "Ding!"
+
+#: plugins/content_types/new_materials.inc:9
+msgid "Ting new materials list"
+msgstr ""
+
+#: plugins/content_types/new_materials.inc:10
+msgid "Show a list of new materials"
+msgstr ""
+
+#: plugins/content_types/new_materials.inc:14
+msgid "Ting"
+msgstr "Materialer"
+
+#: plugins/content_types/new_materials.inc:62
+msgid "Show 1 result"
+msgid_plural "Show %from-%to of <span class=\"placeholder\">@count</span> results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/covers-search-result.tpl.php:29
+msgid "Your search yielded no results"
+msgstr "Din søgning gav ingen resultater."

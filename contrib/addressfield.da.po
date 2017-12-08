@@ -1,0 +1,1282 @@
+# $Id$
+#
+# Danish translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Generated from files:
+#  addressfield.migrate.inc: n/a
+#  addressfield.tokens.inc: n/a
+#  addressfield.module: n/a
+#  plugins/format/address.inc: n/a
+#  plugins/format/name-oneline.inc: n/a
+#  plugins/format/name-full.inc: n/a
+#  views/addressfield_views_handler_filter_country.inc: n/a
+#  plugins/format/organisation.inc: n/a
+#  addressfield.info: n/a
+#  example/addressfield_example.info: n/a
+#  example/plugins/format/addressfield-example.inc: n/a
+#  plugins/format/address-hide-country.inc: n/a
+#  views/addressfield.views.inc: n/a
+#  views/addressfield_views_handler_field_country.inc: n/a
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2017-12-08 18:04+0100\n"
+"PO-Revision-Date: 2017-12-08 17:05+0000\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Danish <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"Language: da\n"
+"X-Generator: Poedit 2.0.5\n"
+
+#: addressfield.migrate.inc:71
+msgid "<a href=\"@doc\">The postal code of this address</a>"
+msgstr ""
+
+#: addressfield.migrate.inc:76
+msgid "<a href=\"@doc\">The premise of this address (i.e. Apartment / Suite number)</a>"
+msgstr ""
+
+#: addressfield.migrate.inc:78
+msgid "<a href=\"@doc\">The sub_premise of this address</a>"
+msgstr ""
+
+#: addressfield.migrate.inc:92
+msgid "<a href=\"@doc\">Additional data for this address</a>"
+msgstr ""
+
+#: addressfield.tokens.inc:13
+msgid "Address field"
+msgstr ""
+
+#: addressfield.tokens.inc:14
+msgid "Tokens related to address field values and their components."
+msgstr ""
+
+#: addressfield.tokens.inc:23
+msgid "Country name"
+msgstr "Landenavn"
+
+#: addressfield.tokens.inc:24
+msgid "The full name of the country."
+msgstr ""
+
+#: addressfield.tokens.inc:27
+msgid "Country code"
+msgstr "Landekode"
+
+#: addressfield.tokens.inc:28
+msgid "The two letter ISO country code."
+msgstr ""
+
+#: addressfield.tokens.inc:31
+msgid "Administrative area (i.e. State/Province)"
+msgstr ""
+
+#: addressfield.tokens.inc:32
+msgid "The administrative area value, expanded to the full name if applicable."
+msgstr ""
+
+#: addressfield.tokens.inc:35
+msgid "Administrative area (raw value)"
+msgstr ""
+
+#: addressfield.tokens.inc:36
+msgid "The raw administrative area value."
+msgstr ""
+
+#: addressfield.tokens.inc:39 addressfield.module:781
+msgid "Locality (i.e. City)"
+msgstr ""
+
+#: addressfield.tokens.inc:40
+msgid "The locality value."
+msgstr ""
+
+#: addressfield.tokens.inc:43 addressfield.module:787 plugins/format/address.inc:64
+msgid "Postal code"
+msgstr "Postnummer"
+
+#: addressfield.tokens.inc:44
+msgid "The postal code value."
+msgstr ""
+
+#: addressfield.tokens.inc:47 addressfield.module:790
+msgid "Thoroughfare (i.e. Street address)"
+msgstr ""
+
+#: addressfield.tokens.inc:48;52
+msgid "The thoroughfare value."
+msgstr ""
+
+#: addressfield.tokens.inc:51
+msgid "Premise (i.e. Street address)"
+msgstr ""
+
+#: addressfield.tokens.inc:55
+msgid "Organisation"
+msgstr ""
+
+#: addressfield.tokens.inc:56
+msgid "The organisation name value."
+msgstr ""
+
+#: addressfield.tokens.inc:59 addressfield.module:763 plugins/format/name-oneline.inc:27
+msgid "Full name"
+msgstr "Fulde navn"
+
+#: addressfield.tokens.inc:60
+msgid "The name line value of the address."
+msgstr ""
+
+#: addressfield.tokens.inc:63 addressfield.module:766 plugins/format/name-full.inc:29
+msgid "First name"
+msgstr "Fornavn"
+
+#: addressfield.tokens.inc:64
+msgid "The first name value."
+msgstr ""
+
+#: addressfield.tokens.inc:67 addressfield.module:769 plugins/format/name-full.inc:39
+msgid "Last name"
+msgstr "Efternavn"
+
+#: addressfield.tokens.inc:68
+msgid "The last name value."
+msgstr ""
+
+#: addressfield.tokens.inc:73
+msgid "Address formatted for MailChimp"
+msgstr ""
+
+#: addressfield.tokens.inc:74
+msgid "The full address formatted for import into MailChimp."
+msgstr ""
+
+#: addressfield.module:342
+msgid "Postal address"
+msgstr "Adresse"
+
+#: addressfield.module:343
+msgid "A field type used for storing postal addresses according the xNAL standard."
+msgstr "Felttypen bruges til at gemme postadresser iflg. xNAL standarden."
+
+#: addressfield.module:435
+msgid "Dynamic address form"
+msgstr "Dynamisk adresseformular"
+
+#: addressfield.module:459
+msgid "Available countries"
+msgstr "Tilgængelige lande"
+
+#: addressfield.module:460
+msgid "If no countries are selected, all countries will be available."
+msgstr "Hvis der ikke vælges et land, vil alle lande være tilgængelige."
+
+#: addressfield.module:467;634
+msgid "Format handlers"
+msgstr ""
+
+#: addressfield.module:609
+msgid "Default"
+msgstr "Standard"
+
+#: addressfield.module:628
+msgid "Use the same configuration as the widget."
+msgstr ""
+
+#: addressfield.module:677
+msgid "Use widget configuration"
+msgstr ""
+
+#: addressfield.module:685
+msgid "No handler"
+msgstr ""
+
+#: addressfield.module:759 plugins/format/address.inc:85 views/addressfield_views_handler_filter_country.inc:5
+msgid "Country"
+msgstr "Land"
+
+#: addressfield.module:772 plugins/format/organisation.inc:27
+msgid "Company"
+msgstr "Virksomhed"
+
+#: addressfield.module:775
+msgid "Administrative area (i.e. State / Province)"
+msgstr ""
+
+#: addressfield.module:778
+msgid "Sub administrative area"
+msgstr ""
+
+#: addressfield.module:784
+msgid "Dependent locality"
+msgstr ""
+
+#: addressfield.module:793
+msgid "Premise (i.e. Apartment / Suite number)"
+msgstr ""
+
+#: addressfield.module:800
+msgid "!label of field %name"
+msgstr ""
+
+#: addressfield.info:0
+msgid "Address Field"
+msgstr "Adressefelt"
+
+#: addressfield.info:0
+msgid "Manage a flexible address field, implementing the xNAL standard."
+msgstr "Administrér et fleksibelt adressefelt, der implementerer xNAL standarden."
+
+#: addressfield.info:0 example/addressfield_example.info:0
+msgid "Fields"
+msgstr "Felter"
+
+#: example/addressfield_example.info:0
+msgid "Address Field Example"
+msgstr "Adressefelt-eksempel"
+
+#: example/addressfield_example.info:0
+msgid "Example module for how to implement an addressfield format handler."
+msgstr ""
+
+#: example/plugins/format/addressfield-example.inc:9
+msgid "Address form (CH add-on)"
+msgstr ""
+
+#: plugins/format/address-hide-country.inc:9
+msgid "Hide the country when only one is available"
+msgstr ""
+
+#: plugins/format/address.inc:9
+msgid "Address form (country-specific)"
+msgstr ""
+
+#: plugins/format/address.inc:34
+msgid "Address 1"
+msgstr "Adresselinje 1"
+
+#: plugins/format/address.inc:46
+msgid "Address 2"
+msgstr "Adresselinje 2"
+
+#: plugins/format/address.inc:74
+msgid "City"
+msgstr "By"
+
+#: plugins/format/address.inc:112
+msgctxt "Territory of a country"
+msgid "State"
+msgstr "Status"
+
+#: plugins/format/address.inc:127;179;200;324;394;417;435
+msgid "--"
+msgstr "--"
+
+#: plugins/format/address.inc:128
+msgid "Alabama"
+msgstr "Alabama"
+
+#: plugins/format/address.inc:129
+msgid "Alaska"
+msgstr "Alaska"
+
+#: plugins/format/address.inc:130
+msgid "Arizona"
+msgstr "Arizona"
+
+#: plugins/format/address.inc:131
+msgid "Arkansas"
+msgstr "Arkansas"
+
+#: plugins/format/address.inc:132
+msgid "California"
+msgstr "Californien"
+
+#: plugins/format/address.inc:133
+msgid "Colorado"
+msgstr "Colorado"
+
+#: plugins/format/address.inc:134
+msgid "Connecticut"
+msgstr "Connecticut"
+
+#: plugins/format/address.inc:135
+msgid "Delaware"
+msgstr "Delaware"
+
+#: plugins/format/address.inc:136
+msgid "District Of Columbia"
+msgstr ""
+
+#: plugins/format/address.inc:137
+msgid "Florida"
+msgstr "Florida"
+
+#: plugins/format/address.inc:138
+msgid "Georgia"
+msgstr "Georgien"
+
+#: plugins/format/address.inc:139
+msgid "Hawaii"
+msgstr "Hawaii"
+
+#: plugins/format/address.inc:140
+msgid "Idaho"
+msgstr "Idaho"
+
+#: plugins/format/address.inc:141
+msgid "Illinois"
+msgstr "Illinois"
+
+#: plugins/format/address.inc:142
+msgid "Indiana"
+msgstr "Indiana"
+
+#: plugins/format/address.inc:143
+msgid "Iowa"
+msgstr "Iowa"
+
+#: plugins/format/address.inc:144
+msgid "Kansas"
+msgstr "Kansas"
+
+#: plugins/format/address.inc:145
+msgid "Kentucky"
+msgstr "Kentucky"
+
+#: plugins/format/address.inc:146
+msgid "Louisiana"
+msgstr "Louisiana"
+
+#: plugins/format/address.inc:147
+msgid "Maine"
+msgstr "Maine"
+
+#: plugins/format/address.inc:148
+msgid "Maryland"
+msgstr "Maryland"
+
+#: plugins/format/address.inc:149
+msgid "Massachusetts"
+msgstr "Massachusetts"
+
+#: plugins/format/address.inc:150
+msgid "Michigan"
+msgstr "Michigan"
+
+#: plugins/format/address.inc:151
+msgid "Minnesota"
+msgstr "Minnesota"
+
+#: plugins/format/address.inc:152
+msgid "Mississippi"
+msgstr "Mississippi"
+
+#: plugins/format/address.inc:153
+msgid "Missouri"
+msgstr "Missouri"
+
+#: plugins/format/address.inc:154
+msgid "Montana"
+msgstr "Montana"
+
+#: plugins/format/address.inc:155
+msgid "Nebraska"
+msgstr "Nebraska"
+
+#: plugins/format/address.inc:156
+msgid "Nevada"
+msgstr "Nevada"
+
+#: plugins/format/address.inc:157
+msgid "New Hampshire"
+msgstr "New Hampshire"
+
+#: plugins/format/address.inc:158
+msgid "New Jersey"
+msgstr "New Jersey"
+
+#: plugins/format/address.inc:159
+msgid "New Mexico"
+msgstr "New Mexico"
+
+#: plugins/format/address.inc:160
+msgid "New York"
+msgstr "New York"
+
+#: plugins/format/address.inc:161
+msgid "North Carolina"
+msgstr "North Carolina"
+
+#: plugins/format/address.inc:162
+msgid "North Dakota"
+msgstr "North Dakota"
+
+#: plugins/format/address.inc:163
+msgid "Ohio"
+msgstr "Ohio"
+
+#: plugins/format/address.inc:164
+msgid "Oklahoma"
+msgstr "Oklahoma"
+
+#: plugins/format/address.inc:165
+msgid "Oregon"
+msgstr "Oregon"
+
+#: plugins/format/address.inc:166
+msgid "Pennsylvania"
+msgstr "Pennsylvania"
+
+#: plugins/format/address.inc:167
+msgid "Rhode Island"
+msgstr "Rhode Island"
+
+#: plugins/format/address.inc:168
+msgid "South Carolina"
+msgstr "South Carolina"
+
+#: plugins/format/address.inc:169
+msgid "South Dakota"
+msgstr "South Dakota"
+
+#: plugins/format/address.inc:170
+msgid "Tennessee"
+msgstr "Tennessee"
+
+#: plugins/format/address.inc:171
+msgid "Texas"
+msgstr "Texas"
+
+#: plugins/format/address.inc:172
+msgid "Utah"
+msgstr "Utah"
+
+#: plugins/format/address.inc:173
+msgid "Vermont"
+msgstr "Vermont"
+
+#: plugins/format/address.inc:174
+msgid "Virginia"
+msgstr "Virginia"
+
+#: plugins/format/address.inc:175
+msgid "Washington"
+msgstr "Washington"
+
+#: plugins/format/address.inc:176
+msgid "West Virginia"
+msgstr "West Virginia"
+
+#: plugins/format/address.inc:177
+msgid "Wisconsin"
+msgstr "Wisconsin"
+
+#: plugins/format/address.inc:178
+msgid "Wyoming"
+msgstr "Wyoming"
+
+#: plugins/format/address.inc:180
+msgid "Armed Forces (Americas)"
+msgstr ""
+
+#: plugins/format/address.inc:181
+msgid "Armed Forces (Europe, Canada, Middle East, Africa)"
+msgstr ""
+
+#: plugins/format/address.inc:182
+msgid "Armed Forces (Pacific)"
+msgstr ""
+
+#: plugins/format/address.inc:183
+msgid "American Samoa"
+msgstr "Amerikansk Samoa"
+
+#: plugins/format/address.inc:184
+msgid "Federated States of Micronesia"
+msgstr "Mikronesien"
+
+#: plugins/format/address.inc:185
+msgid "Guam"
+msgstr "Guam"
+
+#: plugins/format/address.inc:186
+msgid "Marshall Islands"
+msgstr "Marshalløerne"
+
+#: plugins/format/address.inc:187
+msgid "Northern Mariana Islands"
+msgstr "Nordmarianerne"
+
+#: plugins/format/address.inc:188
+msgid "Palau"
+msgstr "Palau"
+
+#: plugins/format/address.inc:189
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+#: plugins/format/address.inc:190
+msgid "Virgin Islands"
+msgstr "Virgin Islands"
+
+#: plugins/format/address.inc:192
+msgid "ZIP Code"
+msgstr "Postnummer"
+
+#: plugins/format/address.inc:201
+msgid "Agrigento"
+msgstr "Agrigento"
+
+#: plugins/format/address.inc:202
+msgid "Alessandria"
+msgstr "Alessandria"
+
+#: plugins/format/address.inc:203
+msgid "Ancona"
+msgstr "Ancona"
+
+#: plugins/format/address.inc:204
+msgid "Valle d'Aosta/Vallée d'Aoste"
+msgstr ""
+
+#: plugins/format/address.inc:205
+msgid "Ascoli Piceno"
+msgstr "Ascoli Piceno"
+
+#: plugins/format/address.inc:206
+msgid "L'Aquila"
+msgstr "L'Aquila"
+
+#: plugins/format/address.inc:207
+msgid "Arezzo"
+msgstr "Arezzo"
+
+#: plugins/format/address.inc:208
+msgid "Asti"
+msgstr "Asti"
+
+#: plugins/format/address.inc:209
+msgid "Avellino"
+msgstr "Avellino"
+
+#: plugins/format/address.inc:210
+msgid "Bari"
+msgstr "Bari"
+
+#: plugins/format/address.inc:211
+msgid "Bergamo"
+msgstr "Bergamo"
+
+#: plugins/format/address.inc:212
+msgid "Biella"
+msgstr "Biella"
+
+#: plugins/format/address.inc:213
+msgid "Belluno"
+msgstr "Belluno"
+
+#: plugins/format/address.inc:214
+msgid "Benevento"
+msgstr "Benevento"
+
+#: plugins/format/address.inc:215
+msgid "Bologna"
+msgstr "Bologna"
+
+#: plugins/format/address.inc:216
+msgid "Brindisi"
+msgstr "Brindisi"
+
+#: plugins/format/address.inc:217
+msgid "Brescia"
+msgstr "Brescia"
+
+#: plugins/format/address.inc:218
+msgid "Barletta-Andria-Trani"
+msgstr ""
+
+#: plugins/format/address.inc:219
+msgid "Bolzano/Bozen"
+msgstr ""
+
+#: plugins/format/address.inc:220
+msgid "Cagliari"
+msgstr "Cagliari"
+
+#: plugins/format/address.inc:221
+msgid "Campobasso"
+msgstr "Campobasso"
+
+#: plugins/format/address.inc:222
+msgid "Caserta"
+msgstr "Caserta"
+
+#: plugins/format/address.inc:223
+msgid "Chieti"
+msgstr "Chieti"
+
+#: plugins/format/address.inc:224
+msgid "Carbonia-Iglesias"
+msgstr ""
+
+#: plugins/format/address.inc:225
+msgid "Caltanissetta"
+msgstr "Caltanissetta"
+
+#: plugins/format/address.inc:226
+msgid "Cuneo"
+msgstr "Cuneo"
+
+#: plugins/format/address.inc:227
+msgid "Como"
+msgstr "Como"
+
+#: plugins/format/address.inc:228
+msgid "Cremona"
+msgstr "Cremona"
+
+#: plugins/format/address.inc:229
+msgid "Cosenza"
+msgstr "Cosenza"
+
+#: plugins/format/address.inc:230
+msgid "Catania"
+msgstr "Catania"
+
+#: plugins/format/address.inc:231
+msgid "Catanzaro"
+msgstr "Catanzaro"
+
+#: plugins/format/address.inc:232
+msgid "Enna"
+msgstr "Enna"
+
+#: plugins/format/address.inc:233
+msgid "Forlì-Cesena"
+msgstr ""
+
+#: plugins/format/address.inc:234
+msgid "Ferrara"
+msgstr "Ferrara"
+
+#: plugins/format/address.inc:235
+msgid "Foggia"
+msgstr "Foggia"
+
+#: plugins/format/address.inc:236
+msgid "Firenze"
+msgstr "Firenze"
+
+#: plugins/format/address.inc:237
+msgid "Fermo"
+msgstr ""
+
+#: plugins/format/address.inc:238
+msgid "Frosinone"
+msgstr "Frosinone"
+
+#: plugins/format/address.inc:239
+msgid "Genova"
+msgstr "Genova"
+
+#: plugins/format/address.inc:240
+msgid "Gorizia"
+msgstr "Gorizia"
+
+#: plugins/format/address.inc:241
+msgid "Grosseto"
+msgstr "Grosseto"
+
+#: plugins/format/address.inc:242
+msgid "Imperia"
+msgstr "Imperia"
+
+#: plugins/format/address.inc:243
+msgid "Isernia"
+msgstr "Isernia"
+
+#: plugins/format/address.inc:244
+msgid "Crotone"
+msgstr "Crotone"
+
+#: plugins/format/address.inc:245
+msgid "Lecco"
+msgstr "Lecco"
+
+#: plugins/format/address.inc:246
+msgid "Lecce"
+msgstr "Lecce"
+
+#: plugins/format/address.inc:247
+msgid "Livorno"
+msgstr "Livorno"
+
+#: plugins/format/address.inc:248
+msgid "Lodi"
+msgstr "Lodi"
+
+#: plugins/format/address.inc:249
+msgid "Latina"
+msgstr "Latina"
+
+#: plugins/format/address.inc:250
+msgid "Lucca"
+msgstr "Lucca"
+
+#: plugins/format/address.inc:251
+msgid "Monza e Brianza"
+msgstr ""
+
+#: plugins/format/address.inc:252
+msgid "Macerata"
+msgstr "Macerata"
+
+#: plugins/format/address.inc:253
+msgid "Messina"
+msgstr "Messina"
+
+#: plugins/format/address.inc:254
+msgid "Milano"
+msgstr "Milano"
+
+#: plugins/format/address.inc:255
+msgid "Mantova"
+msgstr "Mantova"
+
+#: plugins/format/address.inc:256
+msgid "Modena"
+msgstr "Modena"
+
+#: plugins/format/address.inc:257
+msgid "Massa-Carrara"
+msgstr "Massa-Carrara"
+
+#: plugins/format/address.inc:258
+msgid "Matera"
+msgstr "Matera"
+
+#: plugins/format/address.inc:259
+msgid "Napoli"
+msgstr ""
+
+#: plugins/format/address.inc:260
+msgid "Novara"
+msgstr "Novara"
+
+#: plugins/format/address.inc:261
+msgid "Nuoro"
+msgstr "Nuoro"
+
+#: plugins/format/address.inc:262
+msgid "Ogliastra"
+msgstr ""
+
+#: plugins/format/address.inc:263
+msgid "Oristano"
+msgstr "Oristano"
+
+#: plugins/format/address.inc:264
+msgid "Olbia-Tempio"
+msgstr ""
+
+#: plugins/format/address.inc:265
+msgid "Palermo"
+msgstr "Palermo"
+
+#: plugins/format/address.inc:266
+msgid "Piacenza"
+msgstr "Piacenza"
+
+#: plugins/format/address.inc:267
+msgid "Padova"
+msgstr "Padova"
+
+#: plugins/format/address.inc:268
+msgid "Pescara"
+msgstr "Pescara"
+
+#: plugins/format/address.inc:269
+msgid "Perugia"
+msgstr "Perugia"
+
+#: plugins/format/address.inc:270
+msgid "Pisa"
+msgstr "Pisa"
+
+#: plugins/format/address.inc:271
+msgid "Pordenone"
+msgstr "Pordenone"
+
+#: plugins/format/address.inc:272
+msgid "Prato"
+msgstr "Prato"
+
+#: plugins/format/address.inc:273
+msgid "Parma"
+msgstr "Parma"
+
+#: plugins/format/address.inc:274
+msgid "Pistoia"
+msgstr "Pistoia"
+
+#: plugins/format/address.inc:275
+msgid "Pesaro e Urbino"
+msgstr "Pesaro e Urbino"
+
+#: plugins/format/address.inc:276
+msgid "Pavia"
+msgstr "Pavia"
+
+#: plugins/format/address.inc:277
+msgid "Potenza"
+msgstr "Potenza"
+
+#: plugins/format/address.inc:278
+msgid "Ravenna"
+msgstr "Ravenna"
+
+#: plugins/format/address.inc:279
+msgid "Reggio di Calabria"
+msgstr ""
+
+#: plugins/format/address.inc:280
+msgid "Reggio nell'Emilia"
+msgstr ""
+
+#: plugins/format/address.inc:281
+msgid "Ragusa"
+msgstr "Ragusa"
+
+#: plugins/format/address.inc:282
+msgid "Rieti"
+msgstr "Rieti"
+
+#: plugins/format/address.inc:283
+msgid "Roma"
+msgstr "Roma"
+
+#: plugins/format/address.inc:284
+msgid "Rimini"
+msgstr "Rimini"
+
+#: plugins/format/address.inc:285
+msgid "Rovigo"
+msgstr "Rovigo"
+
+#: plugins/format/address.inc:286
+msgid "Salerno"
+msgstr "Salerno"
+
+#: plugins/format/address.inc:287
+msgid "Siena"
+msgstr "Siena"
+
+#: plugins/format/address.inc:288
+msgid "Sondrio"
+msgstr "Sondrio"
+
+#: plugins/format/address.inc:289
+msgid "La Spezia"
+msgstr "La Spezia"
+
+#: plugins/format/address.inc:290
+msgid "Siracusa"
+msgstr "Siracusa"
+
+#: plugins/format/address.inc:291
+msgid "Sassari"
+msgstr "Sassari"
+
+#: plugins/format/address.inc:292
+msgid "Savona"
+msgstr "Savona"
+
+#: plugins/format/address.inc:293
+msgid "Taranto"
+msgstr "Taranto"
+
+#: plugins/format/address.inc:294
+msgid "Teramo"
+msgstr "Teramo"
+
+#: plugins/format/address.inc:295
+msgid "Trento"
+msgstr "Trento"
+
+#: plugins/format/address.inc:296
+msgid "Torino"
+msgstr "Torino"
+
+#: plugins/format/address.inc:297
+msgid "Trapani"
+msgstr "Trapani"
+
+#: plugins/format/address.inc:298
+msgid "Terni"
+msgstr "Terni"
+
+#: plugins/format/address.inc:299
+msgid "Trieste"
+msgstr "Trieste"
+
+#: plugins/format/address.inc:300
+msgid "Treviso"
+msgstr "Treviso"
+
+#: plugins/format/address.inc:301
+msgid "Udine"
+msgstr "Udine"
+
+#: plugins/format/address.inc:302
+msgid "Varese"
+msgstr "Varese"
+
+#: plugins/format/address.inc:303
+msgid "Verbano-Cusio-Ossola"
+msgstr "Verbano-Cusio-Ossola"
+
+#: plugins/format/address.inc:304
+msgid "Vercelli"
+msgstr "Vercelli"
+
+#: plugins/format/address.inc:305
+msgid "Venezia"
+msgstr "Venezia"
+
+#: plugins/format/address.inc:306
+msgid "Vicenza"
+msgstr "Vicenza"
+
+#: plugins/format/address.inc:307
+msgid "Verona"
+msgstr "Verona"
+
+#: plugins/format/address.inc:308
+msgid "Medio Campidano"
+msgstr ""
+
+#: plugins/format/address.inc:309
+msgid "Viterbo"
+msgstr "Viterbo"
+
+#: plugins/format/address.inc:310
+msgid "Vibo Valentia"
+msgstr "Vibo Valentia"
+
+#: plugins/format/address.inc:312;409
+msgid "Province"
+msgstr "Landsdel"
+
+#: plugins/format/address.inc:316
+msgid "Neighborhood"
+msgstr ""
+
+#: plugins/format/address.inc:325
+msgid "Acre"
+msgstr ""
+
+#: plugins/format/address.inc:326
+msgid "Alagoas"
+msgstr ""
+
+#: plugins/format/address.inc:327
+msgid "Amazonas"
+msgstr ""
+
+#: plugins/format/address.inc:328
+msgid "Amapá"
+msgstr ""
+
+#: plugins/format/address.inc:329
+msgid "Bahia"
+msgstr ""
+
+#: plugins/format/address.inc:330
+msgid "Ceará"
+msgstr ""
+
+#: plugins/format/address.inc:331
+msgid "Distrito Federal"
+msgstr ""
+
+#: plugins/format/address.inc:332
+msgid "Espírito Santo"
+msgstr ""
+
+#: plugins/format/address.inc:333
+msgid "Goiás"
+msgstr ""
+
+#: plugins/format/address.inc:334
+msgid "Maranhão"
+msgstr ""
+
+#: plugins/format/address.inc:335
+msgid "Minas Gerais"
+msgstr ""
+
+#: plugins/format/address.inc:336
+msgid "Mato Grosso do Sul"
+msgstr ""
+
+#: plugins/format/address.inc:337
+msgid "Mato Grosso"
+msgstr ""
+
+#: plugins/format/address.inc:338
+msgid "Pará"
+msgstr ""
+
+#: plugins/format/address.inc:339
+msgid "Paraíba"
+msgstr ""
+
+#: plugins/format/address.inc:340
+msgid "Pernambuco"
+msgstr ""
+
+#: plugins/format/address.inc:341
+msgid "Piauí"
+msgstr ""
+
+#: plugins/format/address.inc:342
+msgid "Paraná"
+msgstr ""
+
+#: plugins/format/address.inc:343
+msgid "Rio de Janeiro"
+msgstr ""
+
+#: plugins/format/address.inc:344
+msgid "Rio Grande do Norte"
+msgstr ""
+
+#: plugins/format/address.inc:345
+msgid "Rondônia"
+msgstr ""
+
+#: plugins/format/address.inc:346
+msgid "Roraima"
+msgstr ""
+
+#: plugins/format/address.inc:347
+msgid "Rio Grande do Sul"
+msgstr ""
+
+#: plugins/format/address.inc:348
+msgid "Santa Catarina"
+msgstr ""
+
+#: plugins/format/address.inc:349
+msgid "Sergipe"
+msgstr ""
+
+#: plugins/format/address.inc:350
+msgid "São Paulo"
+msgstr ""
+
+#: plugins/format/address.inc:351
+msgid "Tocantins"
+msgstr ""
+
+#: plugins/format/address.inc:358
+msgid "Thoroughfare"
+msgstr ""
+
+#: plugins/format/address.inc:366
+msgid "Complement"
+msgstr ""
+
+#: plugins/format/address.inc:395
+msgid "Alberta"
+msgstr ""
+
+#: plugins/format/address.inc:396
+msgid "British Columbia"
+msgstr ""
+
+#: plugins/format/address.inc:397
+msgid "Manitoba"
+msgstr ""
+
+#: plugins/format/address.inc:398
+msgid "New Brunswick"
+msgstr ""
+
+#: plugins/format/address.inc:399
+msgid "Newfoundland and Labrador"
+msgstr ""
+
+#: plugins/format/address.inc:400
+msgid "Northwest Territories"
+msgstr ""
+
+#: plugins/format/address.inc:401
+msgid "Nova Scotia"
+msgstr ""
+
+#: plugins/format/address.inc:402
+msgid "Nunavut"
+msgstr ""
+
+#: plugins/format/address.inc:403
+msgid "Ontario"
+msgstr ""
+
+#: plugins/format/address.inc:404
+msgid "Prince Edward Island"
+msgstr ""
+
+#: plugins/format/address.inc:405
+msgid "Quebec"
+msgstr ""
+
+#: plugins/format/address.inc:406
+msgid "Saskatchewan"
+msgstr ""
+
+#: plugins/format/address.inc:407
+msgid "Yukon Territory"
+msgstr ""
+
+#: plugins/format/address.inc:418
+msgid "Australian Capital Territory"
+msgstr ""
+
+#: plugins/format/address.inc:419
+msgid "New South Wales"
+msgstr ""
+
+#: plugins/format/address.inc:420
+msgid "Northern Territory"
+msgstr ""
+
+#: plugins/format/address.inc:421
+msgid "Queensland"
+msgstr ""
+
+#: plugins/format/address.inc:422
+msgid "South Australia"
+msgstr "Sydaustralien"
+
+#: plugins/format/address.inc:423
+msgid "Tasmania"
+msgstr ""
+
+#: plugins/format/address.inc:424
+msgid "Victoria"
+msgstr ""
+
+#: plugins/format/address.inc:425
+msgid "Western Australia"
+msgstr ""
+
+#: plugins/format/address.inc:430;503
+msgid "Postcode"
+msgstr ""
+
+#: plugins/format/address.inc:432
+msgid "Region"
+msgstr "Region"
+
+#: plugins/format/address.inc:436
+msgid "Auckland"
+msgstr ""
+
+#: plugins/format/address.inc:437
+msgid "Bay of Plenty"
+msgstr ""
+
+#: plugins/format/address.inc:438
+msgid "Canterbury"
+msgstr ""
+
+#: plugins/format/address.inc:439
+msgid "Hawke's Bay"
+msgstr ""
+
+#: plugins/format/address.inc:440
+msgid "Manawatu-Wanganui"
+msgstr ""
+
+#: plugins/format/address.inc:441
+msgid "Northland"
+msgstr ""
+
+#: plugins/format/address.inc:442
+msgid "Otago"
+msgstr ""
+
+#: plugins/format/address.inc:443
+msgid "Southland"
+msgstr ""
+
+#: plugins/format/address.inc:444
+msgid "Taranaki"
+msgstr ""
+
+#: plugins/format/address.inc:445
+msgid "Waikato"
+msgstr ""
+
+#: plugins/format/address.inc:446
+msgid "Wellington"
+msgstr ""
+
+#: plugins/format/address.inc:447
+msgid "West Coast"
+msgstr ""
+
+#: plugins/format/address.inc:448
+msgid "Gisborne District"
+msgstr ""
+
+#: plugins/format/address.inc:449
+msgid "Marlborough District"
+msgstr ""
+
+#: plugins/format/address.inc:450
+msgid "Nelson"
+msgstr ""
+
+#: plugins/format/address.inc:451
+msgid "Tasman District"
+msgstr ""
+
+#: plugins/format/address.inc:452
+msgid "Chatham Islands Territory"
+msgstr ""
+
+#: plugins/format/address.inc:479
+msgid "Town/City"
+msgstr ""
+
+#: plugins/format/address.inc:490
+msgid "County"
+msgstr "Amt"
+
+#: plugins/format/name-full.inc:9
+msgid "Name (First name, Last name)"
+msgstr ""
+
+#: plugins/format/name-oneline.inc:9
+msgid "Name (single line)"
+msgstr ""
+
+#: plugins/format/organisation.inc:9
+msgid "Organisation (single line)"
+msgstr ""
+
+#: views/addressfield.views.inc:77
+msgid "@field-label - @property-label"
+msgstr ""
+
+#: views/addressfield_views_handler_field_country.inc:20
+msgid "Display the localized country name instead of the two character country code"
+msgstr ""

@@ -1,0 +1,329 @@
+# $Id$
+#
+# Danish translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Generated from files:
+#  ding_library.features.field_instance.inc: n/a
+#  ding_library.module: n/a
+#  plugins/content_types/address.inc: n/a
+#  ding_library.views_default.inc: n/a
+#  plugins/content_types/library_list.inc: n/a
+#  ding_library.features.inc: n/a
+#  ding_library.info: n/a
+#  ding_library.install: n/a
+#  plugins/content_types/contact.inc: n/a
+#  plugins/content_types/menu_title.inc: n/a
+#  plugins/access/library_count.inc: n/a
+#  plugins/arguments/slug.inc: n/a
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2017-12-08 17:40+0100\n"
+"PO-Revision-Date: 2017-12-08 16:40+0000\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Danish <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"Language: da\n"
+"X-Generator: Poedit 2.0.5\n"
+
+#: ding_library.features.field_instance.inc:779 ding_library.module:117 plugins/content_types/address.inc:30
+msgid "Address"
+msgstr "Adresse"
+
+#: ding_library.features.field_instance.inc:780
+msgid "Body"
+msgstr "Brødtekst"
+
+#: ding_library.features.field_instance.inc:781 ding_library.views_default.inc:311
+msgid "E-mail"
+msgstr "E-mail"
+
+#: ding_library.features.field_instance.inc:782
+msgid "Fax number"
+msgstr "Fax"
+
+#: ding_library.features.field_instance.inc:783 ding_library.views_default.inc:321
+msgid "Geocode"
+msgstr "Geografiske koordinater"
+
+#: ding_library.features.field_instance.inc:784
+msgid "If enabled, events and news can be marked as related to this library and will show up on its library page."
+msgstr "Hvis funktionen er aktiveret kan nyheder og arrangementer markeres som relaterede til biblioteket og vil blive vist på bibliotekssiden."
+
+#: ding_library.features.field_instance.inc:785
+msgid "Lead"
+msgstr "Indledning"
+
+#: ding_library.features.field_instance.inc:786
+msgid "Links"
+msgstr "Links"
+
+#: ding_library.features.field_instance.inc:787
+msgid "Phone number"
+msgstr "Telefon"
+
+#: ding_library.features.field_instance.inc:788
+msgid "Show related content on library page"
+msgstr "Vis relateret indhold på bibliotekssiden"
+
+#: ding_library.features.field_instance.inc:789 plugins/content_types/library_list.inc:137
+msgid "Slug"
+msgstr "Slug (alternativ URL)"
+
+#: ding_library.features.field_instance.inc:790
+msgid "The main contact e-mail address for the library."
+msgstr "Bibliotekets primære e-mail-adresse."
+
+#: ding_library.features.field_instance.inc:791
+msgid "Title image"
+msgstr "Titelbillede"
+
+#: ding_library.features.inc:38 ding_library.module:92 plugins/content_types/library_list.inc:16
+msgid "Library"
+msgstr "Bibliotek"
+
+#: ding_library.features.inc:40
+msgid "Add a new library to the site."
+msgstr ""
+
+#: ding_library.features.inc:42
+msgid "Navn"
+msgstr "Navn"
+
+#: ding_library.views_default.inc:301
+msgid "Master"
+msgstr "Master"
+
+#: ding_library.views_default.inc:302
+msgid "mere"
+msgstr "mere"
+
+#: ding_library.views_default.inc:303
+msgid "Udfør"
+msgstr "Udfør"
+
+#: ding_library.views_default.inc:304
+msgid "Gendan"
+msgstr "Gendan"
+
+#: ding_library.views_default.inc:305
+msgid "Sortér efter"
+msgstr "Sortér efter"
+
+#: ding_library.views_default.inc:306
+msgid "Stigende"
+msgstr "Stigende"
+
+#: ding_library.views_default.inc:307
+msgid "Faldende"
+msgstr "Faldende"
+
+#: ding_library.views_default.inc:308
+msgid "Adresse"
+msgstr "Adresse"
+
+#: ding_library.views_default.inc:309
+msgid "Phone"
+msgstr "Telefon"
+
+#: ding_library.views_default.inc:310
+msgid "Fax"
+msgstr "Fax"
+
+#: ding_library.views_default.inc:312
+msgid "<i class=\"icon-chevron-right\"></i> [title_1]"
+msgstr "<i class=\"icon-chevron-right\"></i> [title_1]"
+
+#: ding_library.views_default.inc:313
+msgid "Libraries list"
+msgstr "Biblioteksoversigt"
+
+#: ding_library.views_default.inc:314
+msgid "Libraries"
+msgstr "Biblioteker"
+
+#: ding_library.views_default.inc:315
+msgid "more"
+msgstr "mere"
+
+#: ding_library.views_default.inc:316
+msgid "queue"
+msgstr "kø"
+
+#: ding_library.views_default.inc:317
+msgid "Library panes"
+msgstr "Library panes"
+
+#: ding_library.views_default.inc:318
+msgid "Leaflet Pane"
+msgstr "Leaflet pane"
+
+#: ding_library.views_default.inc:319
+msgid ""
+"[title]\n"
+"[field_ding_library_addresse]"
+msgstr ""
+
+#: ding_library.module:84
+msgid "None selected"
+msgstr ""
+
+#: ding_library.module:95
+msgid "The library whose address to display."
+msgstr ""
+
+#: ding_library.module:170
+msgid "Phone: @phone_number"
+msgstr ""
+
+#: ding_library.module:179
+msgid "Please select a library to display address information for at the <a href=\"!link\">block configuration page</a>."
+msgstr ""
+
+#: ding_library.module:216
+msgid "Custom alias has been disabled"
+msgstr ""
+
+#: ding_library.module:242
+msgid "Illeagal charecters detected, only small letters (a-z), numbers (0-9), dashes (-) and underscores (_) allowed"
+msgstr ""
+
+#: ding_library.module:257 ding_library.info:0
+msgid "Ding library"
+msgstr ""
+
+#: ding_library.module:258
+msgid "Determine context in panels node."
+msgstr ""
+
+#: ding_library.module:354
+msgid "ding_library"
+msgstr ""
+
+#: ding_library.module:354
+msgid "Unable to create menu position rule for ding library"
+msgstr ""
+
+#: ding_library.install:115
+msgid "Updated menu block."
+msgstr ""
+
+#: ding_library.install:225
+msgid "Group membership"
+msgstr "Temaside medlemsskab"
+
+#: ding_library.info:0
+msgid "Content structure for local libraries."
+msgstr ""
+
+#: ding_library.info:0 plugins/content_types/address.inc:10 plugins/content_types/contact.inc:10 plugins/content_types/library_list.inc:13 plugins/content_types/menu_title.inc:9
+msgid "Ding!"
+msgstr "Ding!"
+
+#: plugins/access/library_count.inc:12
+msgid "Library: number of libraries"
+msgstr ""
+
+#: plugins/access/library_count.inc:13
+msgid "Control access based on the number of libraries."
+msgstr ""
+
+#: plugins/access/library_count.inc:25
+msgid "Number of libraries"
+msgstr ""
+
+#: plugins/access/library_count.inc:27
+msgid "The number of published ding library nodes that should grant access."
+msgstr ""
+
+#: plugins/access/library_count.inc:63
+msgid "Library access count is @count."
+msgstr ""
+
+#: plugins/arguments/slug.inc:8
+msgid "Node: Ding library slug"
+msgstr ""
+
+#: plugins/arguments/slug.inc:10
+msgid "Creates a libray context from the libray slug."
+msgstr ""
+
+#: plugins/content_types/address.inc:4
+msgid "Ding library address info"
+msgstr ""
+
+#: plugins/content_types/address.inc:5
+msgid "Display library address info"
+msgstr ""
+
+#: plugins/content_types/address.inc:7 plugins/content_types/contact.inc:7
+msgid "Node"
+msgstr "Indholdselement"
+
+#: plugins/content_types/contact.inc:4
+msgid "Ding library contact info"
+msgstr ""
+
+#: plugins/content_types/contact.inc:5
+msgid "Display lbirary contact info"
+msgstr ""
+
+#: plugins/content_types/contact.inc:29
+msgid "Phone:"
+msgstr "Telefon:"
+
+#: plugins/content_types/contact.inc:36
+msgid "Fax:"
+msgstr ""
+
+#: plugins/content_types/contact.inc:44
+msgid "Email:"
+msgstr "E-mail:"
+
+#: plugins/content_types/contact.inc:51
+msgid "Contact"
+msgstr "Kontakt"
+
+#: plugins/content_types/library_list.inc:8
+msgid "Ding library selection dropdown"
+msgstr ""
+
+#: plugins/content_types/library_list.inc:9
+msgid "Display a selection dropdown with available libraries."
+msgstr ""
+
+#: plugins/content_types/library_list.inc:15
+msgid "Taxonomy term id"
+msgstr ""
+
+#: plugins/content_types/library_list.inc:62;64
+msgid "All libraries"
+msgstr "Alle biblioteker"
+
+#: plugins/content_types/library_list.inc:91
+msgid "Select library"
+msgstr "Vælg bibliotek"
+
+#: plugins/content_types/library_list.inc:130
+msgid "Hide default"
+msgstr ""
+
+#: plugins/content_types/library_list.inc:131
+msgid "Should the drop-down hide the \"All libraries\" option."
+msgstr ""
+
+#: plugins/content_types/library_list.inc:138
+msgid "The slug could be \"arrangementer\" or \"nyheder\" and will be inserted based on the context."
+msgstr ""
+
+#: plugins/content_types/menu_title.inc:4
+msgid "Menu title"
+msgstr ""
+
+#: plugins/content_types/menu_title.inc:5
+msgid "The title of the currently active menu item."
+msgstr ""

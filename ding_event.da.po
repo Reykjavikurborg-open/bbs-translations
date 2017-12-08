@@ -1,0 +1,479 @@
+# $Id$
+#
+# Danish translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Generated from files:
+#  ding_event.admin.inc: n/a
+#  ding_event.views_default.inc: n/a
+#  ding_event.features.field_instance.inc: n/a
+#  ding_event.features.inc: n/a
+#  ding_event.module: n/a
+#  ding_event.views.inc: n/a
+#  ding_event.info: n/a
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2017-12-08 17:45+0100\n"
+"PO-Revision-Date: 2017-12-08 16:45+0000\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Danish <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"Language: da\n"
+"X-Generator: Poedit 2.0.5\n"
+
+#: ding_event.admin.inc:22
+msgid "Currency"
+msgstr "Valuta"
+
+#: ding_event.admin.inc:25
+msgid "Select which currency to use on events"
+msgstr ""
+
+#: ding_event.admin.inc:30
+msgid "Frontpage"
+msgstr ""
+
+#: ding_event.admin.inc:34
+msgid "Events in frontpage list"
+msgstr ""
+
+#: ding_event.admin.inc:44
+msgid "Only promoted events"
+msgstr ""
+
+#: ding_event.admin.inc:50 ding_event.views_default.inc:1484
+msgid "Event list"
+msgstr "Arrangementsliste"
+
+#: ding_event.admin.inc:55
+msgid "Number of events"
+msgstr ""
+
+#: ding_event.admin.inc:56
+msgid "Choose how many events items you want on each page in the event list"
+msgstr ""
+
+#: ding_event.admin.inc:70
+msgid "Group events by date"
+msgstr ""
+
+#: ding_event.admin.inc:71
+msgid "Group events by date instead of month"
+msgstr ""
+
+#: ding_event.features.field_instance.inc:1112
+msgid "An external link to a site where the user can sign up for the event or buy tickets to the event. The link is printet out as a button. If the event has a price the text on the button will be \"Bestil billet(ter)\" - if not, the text will be \"Deltag i arrangementet\". If Place2book is used, this field should not be used."
+msgstr ""
+
+#: ding_event.features.field_instance.inc:1113
+msgid "Body"
+msgstr "Brødtekst"
+
+#: ding_event.features.field_instance.inc:1114
+msgid "Book ticket/Participate in event"
+msgstr ""
+
+#: ding_event.features.field_instance.inc:1115
+msgid "Category"
+msgstr "Kategori"
+
+#: ding_event.features.field_instance.inc:1116
+msgid "Date"
+msgstr "Dato"
+
+#: ding_event.features.field_instance.inc:1117
+msgid "Display this event in the selected group (temapage)."
+msgstr "Vis dette arrangement i den valgte gruppe (temaside)."
+
+#: ding_event.features.field_instance.inc:1118
+msgid "Events show the value \"Gratis\", if the field is set to 0. If there's multiple ticket types, you can set the value as lowest - highest price in the field, like \"30 - 50\""
+msgstr "Arrangementer viser værdien \"Gratis\" hvis tekstfeltet er sat til 0. Ved flere billettyper kan det angives ved at indsætte laveste - højeste pris i tekstfeltet f. eks. \"30 - 50\""
+
+#: ding_event.features.field_instance.inc:1119
+msgid "Files"
+msgstr "Filer"
+
+#: ding_event.features.field_instance.inc:1120
+msgid "Groups"
+msgstr "Grupper"
+
+#: ding_event.features.field_instance.inc:1121
+msgid "Lead"
+msgstr "Indledning"
+
+#: ding_event.features.field_instance.inc:1122
+msgid "Library"
+msgstr "Bibliotek"
+
+#: ding_event.features.field_instance.inc:1123
+msgid "List image"
+msgstr "Liste billede"
+
+#: ding_event.features.field_instance.inc:1124
+msgid "Location"
+msgstr "Lokation"
+
+#: ding_event.features.field_instance.inc:1125
+msgid "Materials"
+msgstr "Materialer"
+
+#: ding_event.features.field_instance.inc:1126
+msgid "Optional. If provided, the location address will be shown instead of the address of the associated library when presenting info on the event."
+msgstr "Tilvalg. Hvis valgt vil adressen på den valgte lokation blive vist i stedet for adressen på det bibliotek arrangementet er relateret til når der vises information om arrangementet."
+
+#: ding_event.features.field_instance.inc:1127
+msgid "Price"
+msgstr "Pris"
+
+#: ding_event.features.field_instance.inc:1128
+msgid "Select the libraries this content should be associated with."
+msgstr "Vælg de biblioteker som indholdet skal relateres til."
+
+#: ding_event.features.field_instance.inc:1129
+msgid "Tags"
+msgstr "Tags"
+
+#: ding_event.features.field_instance.inc:1130
+msgid "Target"
+msgstr "Mål"
+
+#: ding_event.features.field_instance.inc:1131
+msgid "Title image"
+msgstr "Titelbillede"
+
+#: ding_event.features.inc:35 ding_event.module:16
+msgid "Event"
+msgstr "Begivenhed"
+
+#: ding_event.features.inc:37
+msgid "A content type for events concerning libraries."
+msgstr ""
+
+#: ding_event.features.inc:39
+msgid "Titel"
+msgstr ""
+
+#: ding_event.features.inc:40
+msgid "This is the heading usually displayed with a big font size (h1) on the top of the page."
+msgstr ""
+
+#: ding_event.views.inc:13
+msgid "Ding event date"
+msgstr ""
+
+#: ding_event.views.inc:14
+msgid "Date range when the event is active."
+msgstr ""
+
+#: ding_event.views_default.inc:1461
+msgid "Master"
+msgstr "Master"
+
+#: ding_event.views_default.inc:1462 ding_event.module:229
+msgid "See all events"
+msgstr "Se alle arrangementer"
+
+#: ding_event.views_default.inc:1463
+msgid "Indsend"
+msgstr "Indsend"
+
+#: ding_event.views_default.inc:1464
+msgid "Gendan"
+msgstr "Gendan"
+
+#: ding_event.views_default.inc:1465
+msgid "Sortér efter"
+msgstr "Sortér efter"
+
+#: ding_event.views_default.inc:1466
+msgid "Stigende"
+msgstr "Stigende"
+
+#: ding_event.views_default.inc:1467
+msgid "Faldende"
+msgstr "Faldende"
+
+#: ding_event.views_default.inc:1468
+msgid "Empty text"
+msgstr "Tomt tekstfelt"
+
+#: ding_event.views_default.inc:1469
+msgid "No events where found."
+msgstr "Ingen arrangementer"
+
+#: ding_event.views_default.inc:1470
+msgid "OG membership from node"
+msgstr "Organic Groups medlemsskab fra indhold"
+
+#: ding_event.views_default.inc:1471
+msgid ""
+"<div class=\"event-list-date-wrapper\">\n"
+"  <span class=\"event-list-day\">[field_ding_event_date]</span>\n"
+"  <div class=\"event-list-inner-wrapper\">\n"
+"    <span class=\"event-list-date\">[field_ding_event_date_1]</span>\n"
+"    <span class=\"event-list-month\">[field_ding_event_date_2]</span>\n"
+"  </div>\n"
+"</div>"
+msgstr ""
+
+#: ding_event.views_default.inc:1478
+msgid ""
+"<div class=\"event-list-info\">\n"
+"  <span class=\"event-list-location\">[field_ding_event_location]</span>\n"
+"  <span class=\"event-list-time\">[field_ding_event_date_3]</span>\n"
+"  <span class=\"event-list-price\">[field_ding_event_price]</span>\n"
+"</div>"
+msgstr ""
+
+#: ding_event.views_default.inc:1483
+msgid "Alle"
+msgstr "Alle"
+
+#: ding_event.views_default.inc:1485
+msgid "more"
+msgstr "mere"
+
+#: ding_event.views_default.inc:1486
+msgid "Search"
+msgstr "Søg"
+
+#: ding_event.views_default.inc:1487
+msgid "Alle arrangementer"
+msgstr ""
+
+#: ding_event.views_default.inc:1488
+msgid "Number of elements"
+msgstr "Antal"
+
+#: ding_event.views_default.inc:1489
+msgid "- Alle -"
+msgstr "- Alle -"
+
+#: ding_event.views_default.inc:1490
+msgid "Forskydning"
+msgstr "Forskydning"
+
+#: ding_event.views_default.inc:1491
+msgid "« First"
+msgstr "« Første"
+
+#: ding_event.views_default.inc:1492
+msgid "‹ previous"
+msgstr "‹ forrige"
+
+#: ding_event.views_default.inc:1493
+msgid "Next ›"
+msgstr "Næste ›"
+
+#: ding_event.views_default.inc:1494
+msgid "Last »"
+msgstr "Sidste »"
+
+#: ding_event.views_default.inc:1495
+msgid "OG node group"
+msgstr "Organic Groups temaside"
+
+#: ding_event.views_default.inc:1496
+msgid "term from field_ding_event_category"
+msgstr ""
+
+#: ding_event.views_default.inc:1497
+msgid "term from field_ding_event_tags"
+msgstr ""
+
+#: ding_event.views_default.inc:1498
+msgid "term from field_ding_event_target"
+msgstr ""
+
+#: ding_event.views_default.inc:1499
+msgid "From"
+msgstr "Fra"
+
+#: ding_event.views_default.inc:1500
+msgid "To"
+msgstr "Til"
+
+#: ding_event.views_default.inc:1501
+msgid "Event panes"
+msgstr "Event panes"
+
+#: ding_event.views_default.inc:1502
+msgid "Event list (frontpage)"
+msgstr "Arrangementsliste (forsiden)"
+
+#: ding_event.views_default.inc:1503
+msgid "Events"
+msgstr "Arrangementer"
+
+#: ding_event.views_default.inc:1504
+msgid "Library event list"
+msgstr "Biblioteksarrangementsliste"
+
+#: ding_event.views_default.inc:1505
+msgid "All"
+msgstr "Alle"
+
+#: ding_event.views_default.inc:1506
+msgid "Library panes"
+msgstr "Library panes"
+
+#: ding_event.views_default.inc:1507
+msgid "Event list (library)"
+msgstr "Arrangementsliste (bibliotek)"
+
+#: ding_event.views_default.inc:1508
+msgid "Groups event list"
+msgstr "Temasidearramgementsliste"
+
+#: ding_event.views_default.inc:1509
+msgid "Group events"
+msgstr "Arrangementer"
+
+#: ding_event.views_default.inc:1510
+msgid "OG membership group"
+msgstr "Organc Groups medlemsskab temaside"
+
+#: ding_event.views_default.inc:1511
+msgid "OG group"
+msgstr "Organic Groups temaside"
+
+#: ding_event.views_default.inc:1512
+msgid "OG membership from node (Library)"
+msgstr "Organic Groups medlemsskab fra indhold (bibliotek)"
+
+#: ding_event.views_default.inc:1513
+msgid "OG Library"
+msgstr "Organic Groups Bibliotek"
+
+#: ding_event.views_default.inc:1514
+msgid "Groups panes"
+msgstr "Groups panes"
+
+#: ding_event.views_default.inc:1515
+msgid "Event list (groups)"
+msgstr "Arrangmentsliste (temasider)"
+
+#: ding_event.views_default.inc:1516
+msgid "« first"
+msgstr "« første"
+
+#: ding_event.views_default.inc:1517
+msgid "next ›"
+msgstr "næste ›"
+
+#: ding_event.views_default.inc:1518
+msgid "last »"
+msgstr "sidste »"
+
+#: ding_event.views_default.inc:1519
+msgid "No events where found in the group."
+msgstr "Ingen arrangementer til temaet"
+
+#: ding_event.views_default.inc:1520
+msgid "RSS library event list"
+msgstr "RSS biblioteksarrangementsliste"
+
+#: ding_event.views_default.inc:1521
+msgid "Simple event list"
+msgstr "Simpel arrangementsliste"
+
+#: ding_event.views_default.inc:1522
+msgid "RSS event list"
+msgstr "RSS arrangementsliste"
+
+#: ding_event.views_default.inc:1523
+msgid "Event Image Crop list"
+msgstr ""
+
+#: ding_event.views_default.inc:1524
+msgid "Event Image Crop Overview"
+msgstr ""
+
+#: ding_event.views_default.inc:1525
+msgid "Items per page"
+msgstr "Antal elementer"
+
+#: ding_event.views_default.inc:1526
+msgid "- All -"
+msgstr "- Alle -"
+
+#: ding_event.views_default.inc:1527
+msgid "Offset"
+msgstr "Forskydning"
+
+#: ding_event.views_default.inc:1528
+msgid "Rediger"
+msgstr ""
+
+#: ding_event.views_default.inc:1529
+msgid "Original Image"
+msgstr ""
+
+#: ding_event.views_default.inc:1530
+msgid "Cropped Image"
+msgstr ""
+
+#: ding_event.module:43
+msgid "Date and time on seperate lines"
+msgstr ""
+
+#: ding_event.module:97
+msgid "Time:"
+msgstr ""
+
+#: ding_event.module:99
+msgid "Date:"
+msgstr ""
+
+#: ding_event.module:242
+msgid "Administer event settings"
+msgstr ""
+
+#: ding_event.module:278
+msgid "Search for an event"
+msgstr "Søg efter et arrangement"
+
+#: ding_event.module:297
+msgid "Select a date"
+msgstr "Vælg en dato"
+
+#: ding_event.module:311
+msgctxt "Price"
+msgid "free"
+msgstr ""
+
+#: ding_event.module:179
+msgid "ding_event"
+msgstr ""
+
+#: ding_event.module:179
+msgid "Unable to create menu position rule for ding event"
+msgstr ""
+
+#: ding_event.module:17
+msgid "Manage event settings."
+msgstr ""
+
+#: ding_event.module:27
+msgid "Ding event settings"
+msgstr ""
+
+#: ding_event.module:28
+msgid "Administer event settings."
+msgstr ""
+
+#: ding_event.info:0
+msgid "Ding event"
+msgstr ""
+
+#: ding_event.info:0
+msgid "Defines event content type and related views"
+msgstr ""
+
+#: ding_event.info:0
+msgid "Ding!"
+msgstr "Ding!"

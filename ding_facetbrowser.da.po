@@ -1,0 +1,193 @@
+# $Id$
+#
+# Danish translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Generated from files:
+#  ding_facetbrowser.admin.inc: n/a
+#  ding_facetbrowser.module: n/a
+#  ding_facetbrowser.install: n/a
+#  ding_facetbrowser.info: n/a
+#  js/ding_facetbrowser.js: n/a
+#  plugins/content_types/ding_facetbrowser/ding_facetbrowser.inc: n/a
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2017-12-08 17:44+0100\n"
+"PO-Revision-Date: 2017-12-08 16:44+0000\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Danish <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"Language: da\n"
+"X-Generator: Poedit 2.0.5\n"
+
+#: ding_facetbrowser.admin.inc:19
+msgid "Configure facets shown in the facetbrowser. Facet names can be found at <a href=\"http://oss.dbc.dk/wiki/bin/view/Databroend/OpenSearchDocIndexes\">DBC wiki</a> and is usually named <em>facet.something</em>."
+msgstr ""
+
+#: ding_facetbrowser.admin.inc:25
+msgid "Visible facets amount"
+msgstr ""
+
+#: ding_facetbrowser.admin.inc:26
+msgid "The amount of facets that will be visible on the search page by default. The rest of the facets will be hidden and the user have to click to show them."
+msgstr ""
+
+#: ding_facetbrowser.admin.inc:34
+msgid "Number of terms"
+msgstr ""
+
+#: ding_facetbrowser.admin.inc:35
+msgid "The number of facets terms to display in each facet group."
+msgstr ""
+
+#: ding_facetbrowser.admin.inc:49;95
+msgid "Facet id"
+msgstr ""
+
+#: ding_facetbrowser.admin.inc:56;101;171
+msgid "Title"
+msgstr "Titel"
+
+#: ding_facetbrowser.admin.inc:63;107;171
+msgid "Facet name sorting"
+msgstr ""
+
+#: ding_facetbrowser.admin.inc:66 ding_facetbrowser.module:221
+msgid "Ranking (default)"
+msgstr ""
+
+#: ding_facetbrowser.admin.inc:67 ding_facetbrowser.module:222
+msgid "Alphabetic"
+msgstr ""
+
+#: ding_facetbrowser.admin.inc:68 ding_facetbrowser.module:223
+msgid "Alphabetic (reverse)"
+msgstr ""
+
+#: ding_facetbrowser.admin.inc:69 ding_facetbrowser.module:224
+msgid "Numeric"
+msgstr "Numerisk"
+
+#: ding_facetbrowser.admin.inc:70 ding_facetbrowser.module:225
+msgid "Numeric (reverse)"
+msgstr ""
+
+#: ding_facetbrowser.admin.inc:77;114;171
+msgid "Weight"
+msgstr "Vægt"
+
+#: ding_facetbrowser.admin.inc:85
+msgid "delete"
+msgstr "slet"
+
+#: ding_facetbrowser.admin.inc:87
+msgid "Delete facet."
+msgstr ""
+
+#: ding_facetbrowser.admin.inc:123
+msgid "Save changes"
+msgstr "Gem ændringer"
+
+#: ding_facetbrowser.admin.inc:143
+msgid "The configuration options have been saved."
+msgstr "Indstillingerne er blevet gemt."
+
+#: ding_facetbrowser.admin.inc:151
+msgid "Disabled"
+msgstr "Deaktiveret"
+
+#: ding_facetbrowser.admin.inc:151
+msgid "Enabled"
+msgstr "Aktiveret"
+
+#: ding_facetbrowser.admin.inc:171
+msgid "Name"
+msgstr "Navn"
+
+#: ding_facetbrowser.admin.inc:171
+msgid "Operations"
+msgstr "Handlinger"
+
+#: ding_facetbrowser.admin.inc:187
+msgid "Are you sure you want to delete @facet?"
+msgstr ""
+
+#: ding_facetbrowser.admin.inc:201
+msgid "@facet deleted."
+msgstr ""
+
+#: ding_facetbrowser.module:9;382
+msgid "Facet browser"
+msgstr ""
+
+#: ding_facetbrowser.module:22
+msgid "Ting facets"
+msgstr ""
+
+#: ding_facetbrowser.module:23
+msgid "Configure facets."
+msgstr ""
+
+#: ding_facetbrowser.module:32
+msgid "Delete facets"
+msgstr ""
+
+#: (duplicate) ding_facetbrowser.install:15
+msgid "Ding facetbrowser"
+msgstr ""
+
+#: (duplicate) ding_facetbrowser.install:16
+msgid "One or more facetgroups have been translated."
+msgstr ""
+
+#: (duplicate) ding_facetbrowser.install:19
+msgid "No facetgroups have been translated. Go to <a href=\"!link\">Settings</a>."
+msgstr ""
+
+#: ding_facetbrowser.info:0
+msgid "Ding Facet Browser"
+msgstr ""
+
+#: ding_facetbrowser.info:0
+msgid "Implements a facetbrowser for search results. If a module implements hook_facetbrowser() we're trying to create a facetbrowser"
+msgstr ""
+
+#: ding_facetbrowser.info:0
+msgid "Ding!"
+msgstr "Ding!"
+
+#: js/ding_facetbrowser.js:0;0
+msgid "Show more filters"
+msgstr "Vis flere"
+
+#: js/ding_facetbrowser.js:0
+msgid "Show less filters"
+msgstr "Vis færre filtre"
+
+#: js/ding_facetbrowser.js:0;0
+msgid "Show more"
+msgstr "Vis flere"
+
+#: js/ding_facetbrowser.js:0
+msgid "Remove all selected"
+msgstr "Fjern valgte"
+
+#: js/ding_facetbrowser.js:0
+msgid "Show less"
+msgstr "Vis færre"
+
+#: plugins/content_types/ding_facetbrowser/ding_facetbrowser.inc:4;53
+msgid "Ding Facetbrowser"
+msgstr ""
+
+#: plugins/content_types/ding_facetbrowser/ding_facetbrowser.inc:5
+msgid "Ding facetbrowser description"
+msgstr ""
+
+#: plugins/content_types/ding_facetbrowser/ding_facetbrowser.inc:9
+msgid "Ting"
+msgstr "Materialer"

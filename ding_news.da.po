@@ -1,0 +1,393 @@
+# $Id$
+#
+# Danish translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Generated from files:
+#  ding_news.admin.inc: n/a
+#  ding_news.features.field_instance.inc: n/a
+#  ding_news.features.inc: n/a
+#  ding_news.views_default.inc: n/a
+#  ding_news.module: n/a
+#  ding_news.info: n/a
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2017-12-08 17:39+0100\n"
+"PO-Revision-Date: 2017-12-08 16:39+0000\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Danish <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"Language: da\n"
+"X-Generator: Poedit 2.0.5\n"
+
+#: ding_news.admin.inc:13
+msgid "Number of news"
+msgstr ""
+
+#: ding_news.admin.inc:14
+msgid "Choose how many news items you want on each page in the news list"
+msgstr ""
+
+#: ding_news.features.field_instance.inc:983
+msgid "Body"
+msgstr "Brødtekst"
+
+#: ding_news.features.field_instance.inc:984
+msgid "Category"
+msgstr "Kategori"
+
+#: ding_news.features.field_instance.inc:985
+msgid "Display this event in the selected group (temapage)."
+msgstr "Vis dette arrangement i den valgte gruppe (temaside)."
+
+#: ding_news.features.field_instance.inc:986
+msgid "Files"
+msgstr "Filer"
+
+#: ding_news.features.field_instance.inc:987
+msgid "Groups"
+msgstr "Grupper"
+
+#: ding_news.features.field_instance.inc:988
+msgid "Lead"
+msgstr "Indledning"
+
+#: ding_news.features.field_instance.inc:989
+msgid "Library"
+msgstr "Bibliotek"
+
+#: ding_news.features.field_instance.inc:990
+msgid "List image"
+msgstr "Liste billede"
+
+#: ding_news.features.field_instance.inc:991
+msgid "Materials"
+msgstr "Materialer"
+
+#: ding_news.features.field_instance.inc:992
+msgid "Select the libraries this content should be associated with."
+msgstr "Vælg de biblioteker som indholdet skal relateres til."
+
+#: ding_news.features.field_instance.inc:993
+msgid "Show as material list"
+msgstr ""
+
+#: ding_news.features.field_instance.inc:994
+msgid "Tags"
+msgstr "Tags"
+
+#: ding_news.features.field_instance.inc:995
+msgid "Title image"
+msgstr "Titelbillede"
+
+#: ding_news.features.inc:107
+msgid "Nyhed"
+msgstr ""
+
+#: ding_news.features.inc:109
+msgid "A content type for news concerning libraries."
+msgstr "Nyheder er en indholdstyper der kan tilføjes til forsiden, den generelle nyhedsliste eller de enkelte bibliotekers nyhedslister."
+
+#: ding_news.features.inc:111
+msgid "Overskrift"
+msgstr "Overskrift"
+
+#: ding_news.views_default.inc:1937;2065
+msgid "Master"
+msgstr "Master"
+
+#: ding_news.views_default.inc:1938
+msgid "Library news"
+msgstr "Nyt fra biblioteket"
+
+#: ding_news.views_default.inc:1939 ding_news.module:118
+msgid "See all news"
+msgstr "Se alle nyheder"
+
+#: ding_news.views_default.inc:1940
+msgid "Udfør"
+msgstr "Udfør"
+
+#: ding_news.views_default.inc:1941
+msgid "Gendan"
+msgstr "Gendan"
+
+#: ding_news.views_default.inc:1942
+msgid "Sortér efter"
+msgstr "Sortér efter"
+
+#: ding_news.views_default.inc:1943
+msgid "Stigende"
+msgstr "Stigende"
+
+#: ding_news.views_default.inc:1944
+msgid "Faldende"
+msgstr "Faldende"
+
+#: ding_news.views_default.inc:1945
+msgid "Empty text"
+msgstr "Tomt tekstfelt"
+
+#: ding_news.views_default.inc:1946
+msgid "No news where found."
+msgstr "Ingen nyheder"
+
+#: ding_news.views_default.inc:1947
+msgid "author"
+msgstr "forfatter"
+
+#: ding_news.views_default.inc:1948
+msgid "<span class=\"news-label\">[field_ding_news_category]</span> <span class=\"news-date\">[created]</span>  |  <span class=\"news-author\">af [name]</span>"
+msgstr ""
+
+#: ding_news.views_default.inc:1949
+msgid "Læs mere"
+msgstr "Læs mere"
+
+#: ding_news.views_default.inc:1950
+msgid "Alle"
+msgstr "Alle"
+
+#: ding_news.views_default.inc:1951
+msgid "News list (frontpage)"
+msgstr "Nyhedsliste (forsiden)"
+
+#: ding_news.views_default.inc:1952
+msgid "<i class=\"icon-chevron-right\"></i>"
+msgstr "<i class=\"icon-chevron-right\"></i>"
+
+#: ding_news.views_default.inc:1953
+msgid "News panes"
+msgstr "News panes"
+
+#: ding_news.views_default.inc:1954
+msgid "Library news list"
+msgstr "Biblioteksnyhedsliste"
+
+#: ding_news.views_default.inc:1955
+msgid "OG membership from node"
+msgstr "Organic Groups medlemsskab fra indhold"
+
+#: ding_news.views_default.inc:1956
+msgid "OG node group"
+msgstr "Organic Groups temaside"
+
+#: ding_news.views_default.inc:1957
+msgid "All"
+msgstr "Alle"
+
+#: ding_news.views_default.inc:1958
+msgid "Library panes"
+msgstr "Library panes"
+
+#: ding_news.views_default.inc:1959
+msgid "News list"
+msgstr "Nyhedsliste"
+
+#: ding_news.views_default.inc:1960;2067
+msgid "more"
+msgstr "mere"
+
+#: ding_news.views_default.inc:1961
+msgid "Antal elementer"
+msgstr "Antal elementer"
+
+#: ding_news.views_default.inc:1962
+msgid "- Alle -"
+msgstr "- Alle -"
+
+#: ding_news.views_default.inc:1963
+msgid "Forskydning"
+msgstr "Forskydning"
+
+#: ding_news.views_default.inc:1964
+msgid "« første"
+msgstr "« første"
+
+#: ding_news.views_default.inc:1965
+msgid "‹ forrige"
+msgstr "‹ forrige"
+
+#: ding_news.views_default.inc:1966
+msgid "næste ›"
+msgstr "næste ›"
+
+#: ding_news.views_default.inc:1967
+msgid "sidste »"
+msgstr "sidste »"
+
+#: ding_news.views_default.inc:1968
+msgid "Library Feed"
+msgstr "Biblioteksfeed"
+
+#: ding_news.views_default.inc:1969
+msgid "Feed"
+msgstr "Feed"
+
+#: ding_news.views_default.inc:1970
+msgid "Simple news list"
+msgstr "Simpel nyhedsliste"
+
+#: ding_news.views_default.inc:1971
+msgid "News list (library)"
+msgstr "Nyhedsliste (bibliotek)"
+
+#: ding_news.views_default.inc:1972
+msgid "User news simple list"
+msgstr "Bruger nyheder simpel liste"
+
+#: ding_news.views_default.inc:1973
+msgid "Latest news posts"
+msgstr "Seneste indlæg"
+
+#: ding_news.views_default.inc:1974
+msgid "simple news list by user"
+msgstr "Simpel nyhedsliste fra bruger"
+
+#: ding_news.views_default.inc:1975
+msgid "User news list"
+msgstr "Bruger nyhedsliste"
+
+#: ding_news.views_default.inc:1976
+msgid "news list by user"
+msgstr "Nyhedsliste fra bruger"
+
+#: ding_news.views_default.inc:1977
+msgid "« first"
+msgstr "« første"
+
+#: ding_news.views_default.inc:1978
+msgid "last »"
+msgstr "sidste »"
+
+#: ding_news.views_default.inc:1979
+msgid "Groups news list"
+msgstr "Temasidenyhedsliste"
+
+#: ding_news.views_default.inc:1980
+msgid "Group news"
+msgstr "Nyheder"
+
+#: ding_news.views_default.inc:1981
+msgid "."
+msgstr "."
+
+#: ding_news.views_default.inc:1982
+msgid "Groups panes"
+msgstr "Groups panes"
+
+#: ding_news.views_default.inc:1983
+msgid "News list (groups)"
+msgstr "Nyhedsliste (temaside)"
+
+#: ding_news.views_default.inc:1984
+msgid "News Image Crop list"
+msgstr ""
+
+#: ding_news.views_default.inc:1985
+msgid "News Image Crop Overview"
+msgstr ""
+
+#: ding_news.views_default.inc:1986
+msgid "Items per page"
+msgstr "Antal elementer"
+
+#: ding_news.views_default.inc:1987
+msgid "- All -"
+msgstr "- Alle -"
+
+#: ding_news.views_default.inc:1988
+msgid "Offset"
+msgstr "Forskydning"
+
+#: ding_news.views_default.inc:1989
+msgid "‹ previous"
+msgstr "‹ forrige"
+
+#: ding_news.views_default.inc:1990
+msgid "next ›"
+msgstr "næste ›"
+
+#: ding_news.views_default.inc:1991
+msgid "Rediger"
+msgstr ""
+
+#: ding_news.views_default.inc:1992
+msgid "Original Image"
+msgstr ""
+
+#: ding_news.views_default.inc:1993
+msgid "Cropped image"
+msgstr ""
+
+#: ding_news.views_default.inc:2066
+msgid "News and events"
+msgstr ""
+
+#: ding_news.views_default.inc:2068
+msgid "Apply"
+msgstr "Udfør"
+
+#: ding_news.views_default.inc:2069
+msgid "Reset"
+msgstr "Gendan"
+
+#: ding_news.views_default.inc:2070
+msgid "Sort by"
+msgstr "Sortér efter"
+
+#: ding_news.views_default.inc:2071
+msgid "Asc"
+msgstr "Stigende"
+
+#: ding_news.views_default.inc:2072
+msgid "Desc"
+msgstr "Faldende"
+
+#: ding_news.views_default.inc:2073
+msgid "Content pane"
+msgstr "Content pane"
+
+#: ding_news.views_default.inc:2074
+msgid "View panes"
+msgstr "View panes"
+
+#: ding_news.module:14
+msgid "Teaser highlight"
+msgstr ""
+
+#: ding_news.module:146
+msgid "Administer news settings"
+msgstr ""
+
+#: ding_news.module:88
+msgid "ding_news"
+msgstr ""
+
+#: ding_news.module:88
+msgid "Unable to create menu position rule for ding news"
+msgstr ""
+
+#: ding_news.module:130
+msgid "Ding news settings"
+msgstr ""
+
+#: ding_news.module:131
+msgid "Administer news settings."
+msgstr ""
+
+#: ding_news.info:0
+msgid "Ding news"
+msgstr ""
+
+#: ding_news.info:0
+msgid "Defines news content type and related views"
+msgstr ""
+
+#: ding_news.info:0
+msgid "Ding!"
+msgstr "Ding!"
